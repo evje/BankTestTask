@@ -15,7 +15,19 @@ body {
 input,
 select,
 textarea {
-    max-width: 280px;
+    /*max-width: 280px;*/
+}
+
+.custom-hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tbl-head{
+    border: 2px solid white;
+}
+.tbl-rows{
+    border: 1px solid wheat;
 }
 
 
